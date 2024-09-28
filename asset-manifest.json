@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ws101-concha-navbar/static/css/main.678e1157.css",
+    "main.js": "/ws101-concha-navbar/static/js/main.50e5e4aa.js",
+    "static/js/453.f8fc169f.chunk.js": "/ws101-concha-navbar/static/js/453.f8fc169f.chunk.js",
+    "index.html": "/ws101-concha-navbar/index.html",
+    "main.678e1157.css.map": "/ws101-concha-navbar/static/css/main.678e1157.css.map",
+    "main.50e5e4aa.js.map": "/ws101-concha-navbar/static/js/main.50e5e4aa.js.map",
+    "453.f8fc169f.chunk.js.map": "/ws101-concha-navbar/static/js/453.f8fc169f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.678e1157.css",
+    "static/js/main.50e5e4aa.js"
+  ]
+}
